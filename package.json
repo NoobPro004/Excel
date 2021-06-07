@@ -1,0 +1,14 @@
+{
+  "name": "excel-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "formula.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/icons": "^4.11.2"
+  }
+}
